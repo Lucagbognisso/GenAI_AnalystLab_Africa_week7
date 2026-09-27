@@ -29,7 +29,7 @@ same scripted line without acknowledging what the user had just said.
 Refinements are drafted but not yet applied or retested. This is the priority carry-over into Week 8, along with closing the evidence gap and building the app that connect user and the model.
 
 ## Week 8 Priorities
-- Apply and retest Refinements A and B.
+- Apply and retest Refinements.
 - Close the outstanding evidence gap.
 - Build the public web app connecting users to the assistant.
 
